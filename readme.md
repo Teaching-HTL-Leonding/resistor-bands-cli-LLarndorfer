@@ -1,3 +1,7 @@
+### Changelogs
+16.03.2023 ```implented Level 2; TryMethods implented ```
+
+
 # Resistor Color Code Decoder
 
 ## Introduction
